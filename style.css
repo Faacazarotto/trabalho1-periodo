@@ -1,0 +1,100 @@
+@import url('https://fonts.googleapis.com/css2?family=Nova+Mono&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Tac+One&display=swap');
+
+
+.top{
+    background-color: #E10600;
+}
+.fia_logo{
+    height: 60px;
+    width: 80px;
+}
+.f_um_logo{
+    height: 132px;
+    width: 130px;
+    margin-left: 1100px;
+}
+.subtitulo{
+    font-family: Nova Mono;
+    margin-left: 42%;
+}
+.top{
+    text-decoration: none;
+    font-family: Nova Mono;
+    font-size: 20px;
+    color: black;   
+}
+
+.piloto{
+    background-color: #FFFFFF;
+    height: 330px;
+    width: 250px;
+    border-radius: 10px ;
+    color: black;
+    padding: 15px;
+    display: inline-block;
+}
+
+p{
+    color: #000000;
+}
+
+table{
+    font-family: Nova Mono;
+    background: gray;
+}
+.nome{
+    display: inline-block;
+}
+
+fieldset{
+    padding-right: 10px;
+    border-color: #E10600;
+    border-width: 2px !important;
+    margin-top: 10px;
+    padding-top: 10px;
+    margin-right: 40px;
+
+}
+.posicao{
+    line-height: 3rem;
+    font-family: Tac One;
+    font-size: 2.625rem;
+    display: flex;
+    
+}
+.cmf{
+    position:absolute;
+    font-family: Nova Mono;
+    margin-left: 25%;
+}
+.nacionalidade{
+    width: 52px;
+    border-radius: 10px;
+    margin-left: 198px;
+    position: relative;
+}
+.titulo{
+    margin-left: 25%;
+    font-family: Nova Mono;
+}
+.eqp{
+    margin-left: 30%;
+    font-family: Nova Mono;
+}
+
+.gps{
+    margin-left: 30%;
+    border: 2px black solid;
+    background-color: #E10600;
+}
+.equipes{
+    margin-left: 35%;
+    border: 2px black solid;
+    background-color: #E10600;
+}
+td{
+    border: 2px black solid;
+    padding: 5px;
+    font-size: 20px;
+}
